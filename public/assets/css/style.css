@@ -1,0 +1,33 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.img {
+    padding-bottom: 50px;
+}
+
+.wait {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.btn-default {
+    margin-top: -60px;
+}
+
+.done {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h3 {
+    padding-top: 20px;
+}
+form {
+    padding-top: 25px;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

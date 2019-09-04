@@ -1,5 +1,3 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ('Bacon Burger', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Impossible Burger', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Veggie Burger', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Cheeseburger Burger', FALSE);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Galley Boy Burger', FALSE);
+USE burgers_db;
+INSERT INTO burgers(burger_name, devoured)
+VALUES ("Bacon-Burger",false), ("Impossible-Burger",false), ("Veggie-Burger", false), ("Cheeseburger", false), ("Breakfast-Burger", false);
